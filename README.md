@@ -30,4 +30,5 @@ for (let i = 0; i < fruits.length; i++) {
 
 ## Citat
 "Gode venner kan lave alting sammen – men kun de bedste venner er i stand til at lave ingenting sammen." 
+
 Peter Plys
