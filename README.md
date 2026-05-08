@@ -24,7 +24,7 @@ for (let i = 0; i < fruits.length; i++) {
 </nav>
 ```
 
-## Billede med beskrivelse
+## Billede af min far, søster og jeg på Cuba
 
 ![Et billede af min far, søster og jeg, fra vi var på ferie på Cuba.](img/familie.jpg)
 
